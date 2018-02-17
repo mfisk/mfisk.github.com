@@ -2,10 +2,13 @@
 ---
 
 @import "{{ site.theme }}";
+.inner {
+  max-width: 1000px;
+}
 
 figure { 
   float: right;
-  width: 30%;
+  width: 40%;
 }
 
 figure img {
