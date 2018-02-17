@@ -1,7 +1,7 @@
 # Cybersecurity Artifical Intelligence
 
 <figure>
-    <iframe src="http://www.youtube.com/embed/8s4TtNNvZL4&rel=0&controls=0&modestbranding=1&origin=http://otowi.net" allowfullscreen/>
+    <iframe src="http://www.youtube.com/embed/8s4TtNNvZL4&rel=0&controls=0&modestbranding=1&origin=http://otowi.net" allowfullscreen />
 </figure>
 
 In 2010, we embarked on a multi-year interdisciplinary research project to build AI to detect when cyber insiders (an outside intruder or a rogue insider) are active within a network.
@@ -9,6 +9,8 @@ Our approach models normal behaviors from multiple data sources inside a network
 
 Our work has resulted in top publications, patents, and [PathScan](http://www.ey.com/gl/en/services/advisory/ey-los-alamos-national-laboratory---pathscan), a commercial product.
 
+<div style="clear:right" />
+    
 # Intrusion Tolerance
 
 An intrusion tolerant cyber system can maintain certain performance characteristics even when components have been compromised. 
@@ -22,7 +24,7 @@ An intrusion tolerant cyber system can maintain certain performance characterist
 </figure>
 
 <figure>
-   <iframe src="http://www.youtube.com/embed/bewEtDupC10&rel=0&controls=0&modestbranding=1&origin=http://otowi.net" allowfullscreen></iframe>
+   <iframe src="http://www.youtube.com/embed/bewEtDupC10" allowfullscreen></iframe>
     <figcaption>CloudDP '14 Video</figcaption>
 </figure>
 
