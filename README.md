@@ -1,1 +1,4 @@
+---
+layout: post
+---
 [Filemap](/filemap)
