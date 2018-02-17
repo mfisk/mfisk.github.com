@@ -1,5 +1,9 @@
 # Cybersecurity Artifical Intelligence
 
+<figure>
+    <iframe src=""http://www.youtube.com/embed/8s4TtNNvZL4&rel=0&controls=0&modestbranding=1&origin=http://otowi.net" allowfullscreen/>
+</figure>
+
 In 2010, we embarked on a multi-year interdisciplinary research project to build AI to detect when cyber insiders (an outside intruder or a rogue insider) are active within a network.
 Our approach models normal behaviors from multiple data sources inside a network and detects anomalous changes that are consistent with adversary activity.   This approach demonstrates  aspects of "[third-wave AI](https://www.youtube.com/watch?v=-O01G3tSYpU)" like explainability and model-based learning of sparse data,  that are more sophisticated and efficient than deep learning.
 
@@ -18,10 +22,11 @@ An intrusion tolerant cyber system can maintain certain performance characterist
 </figure>
 
 <figure>
-   <iframe src="http://www.youtube.com/embed/bewEtDupC10" frameborder="0" allowfullscreen></iframe>
+   <iframe src="http://www.youtube.com/embed/bewEtDupC10&rel=0&controls=0&modestbranding=1&origin=http://otowi.net" frameborder="0" allowfullscreen></iframe>
+    <figcaption>CloudDP '14 Video</figcaption>
 </figure>
 
-[Filemap](/filemap) orchestrates map-reduce computations on any collection of computers and does it 10x faster than Hadoop Streaming.  Watch the [CloudDP '14 Video](https://www.youtube.com/watch?v=bewEtDupC10)
+[Filemap](/filemap) orchestrates map-reduce computations on any collection of computers and does it 10x faster than Hadoop Streaming. 
 
 
 <div style="clear:right" />
