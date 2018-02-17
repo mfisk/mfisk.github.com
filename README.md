@@ -1,7 +1,7 @@
 # Cybersecurity Artifical Intelligence
 
 <figure>
-    <iframe src="http://www.youtube.com/embed/8s4TtNNvZL4?rel=0&controls=0&modestbranding=1&origin=http://otowi.net" allowfullscreen></iframe>
+    <iframe src="http://www.youtube.com/embed/8s4TtNNvZL4?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
 </figure>
 
 
@@ -19,13 +19,8 @@ An intrusion tolerant cyber system can maintain certain performance characterist
 [Intrusion Tolerance & The Problem With Best Practices](https://drive.google.com/file/d/1b1WOWxBtCcmk_N_KQ0FwoaYG-I-fvu0W)
 
 # Scalable Analytics
-<figure>
-    <img src="https://raw.githubusercontent.com/wiki/mfisk/filemap/images/WANCloud.png" alt="Wide-area distributed computing"  />
-    <figcaption>Wide-area distributed computing</figcaption>
-</figure>
-
-<figure>
-   <iframe src="http://www.youtube.com/embed/bewEtDupC10?rel=0&controls=0&modestbranding=1&origin=http://otowi.net" allowfullscreen></iframe>
+<figure style="width=50%">
+   <iframe src="http://www.youtube.com/embed/bewEtDupC10?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
     <figcaption>CloudDP '14 Video</figcaption>
 </figure>
 
