@@ -20,7 +20,8 @@ An intrusion tolerant cyber system can maintain certain performance characterist
 [Filemap](/filemap) orchestrates map-reduce computations on any collection of computers and does it 10x faster than Hadoop Streaming.  Watch the [CloudDP '14 Video](https://www.youtube.com/watch?v=bewEtDupC10)
 
 
+<div style="clear:right" />
 
 [SMACQ](/smacq) for streaming queries.
 
-<div clear=all />
+
