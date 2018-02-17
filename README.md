@@ -1,7 +1,7 @@
 # Cybersecurity Artifical Intelligence
 
 <figure>
-    <iframe src=""http://www.youtube.com/embed/8s4TtNNvZL4&rel=0&controls=0&modestbranding=1&origin=http://otowi.net" allowfullscreen/>
+    <iframe src="http://www.youtube.com/embed/8s4TtNNvZL4&rel=0&controls=0&modestbranding=1&origin=http://otowi.net" allowfullscreen/>
 </figure>
 
 In 2010, we embarked on a multi-year interdisciplinary research project to build AI to detect when cyber insiders (an outside intruder or a rogue insider) are active within a network.
@@ -22,7 +22,7 @@ An intrusion tolerant cyber system can maintain certain performance characterist
 </figure>
 
 <figure>
-   <iframe src="http://www.youtube.com/embed/bewEtDupC10&rel=0&controls=0&modestbranding=1&origin=http://otowi.net" frameborder="0" allowfullscreen></iframe>
+   <iframe src="http://www.youtube.com/embed/bewEtDupC10&rel=0&controls=0&modestbranding=1&origin=http://otowi.net" allowfullscreen></iframe>
     <figcaption>CloudDP '14 Video</figcaption>
 </figure>
 
