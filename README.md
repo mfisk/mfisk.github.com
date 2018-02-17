@@ -12,8 +12,8 @@ An intrusion tolerant cyber system can maintain certain performance characterist
 [Intrusion Tolerance & The Problem With Best Practices](https://drive.google.com/file/d/1b1WOWxBtCcmk_N_KQ0FwoaYG-I-fvu0W)
 
 # Scalable Analytics
-<figure style="float:right; width:50%">
-    <img src="https://raw.githubusercontent.com/wiki/mfisk/filemap/images/WANCloud.png" alt="Wide-area distributed computing"  width="100%" />
+<figure>
+    <img src="https://raw.githubusercontent.com/wiki/mfisk/filemap/images/WANCloud.png" alt="Wide-area distributed computing"  />
     <figcaption>Wide-area distributed computing</figcaption>
 </figure>
 
