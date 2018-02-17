@@ -1,7 +1,7 @@
 # Cybersecurity Artifical Intelligence
 
 <figure>
-    <iframe src="http://www.youtube.com/embed/8s4TtNNvZL4&rel=0&controls=0&modestbranding=1&origin=http://otowi.net" allowfullscreen />
+    <iframe src="http://www.youtube.com/embed/8s4TtNNvZL4&rel=0&controls=0&modestbranding=1&origin=http://otowi.net" allowfullscreen></iframe>
 </figure>
 
 
