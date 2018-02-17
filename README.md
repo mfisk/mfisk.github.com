@@ -12,12 +12,13 @@ An intrusion tolerant cyber system can maintain certain performance characterist
 [Intrusion Tolerance & The Problem With Best Practices](https://drive.google.com/file/d/1b1WOWxBtCcmk_N_KQ0FwoaYG-I-fvu0W)
 
 # Scalable Analytics
-[Filemap](/filemap) orchestrates map-reduce computations on any collection of computers and does it 10x faster than Hadoop Streaming.  Watch the [CloudDP '14 Video](https://www.youtube.com/watch?v=bewEtDupC10)
-
 <figure style="float:right; width:50%">
-    <img src="https://raw.githubusercontent.com/wiki/mfisk/filemap/images/WANCloud.png" alt="Wide-area distributed computing"  width="90%" />
+    <img src="https://raw.githubusercontent.com/wiki/mfisk/filemap/images/WANCloud.png" alt="Wide-area distributed computing"  width="100%" />
     <figcaption>Wide-area distributed computing</figcaption>
 </figure>
-<br clear=all>
+
+[Filemap](/filemap) orchestrates map-reduce computations on any collection of computers and does it 10x faster than Hadoop Streaming.  Watch the [CloudDP '14 Video](https://www.youtube.com/watch?v=bewEtDupC10)
+
+
 
 [SMACQ](/smacq) for streaming queries.
