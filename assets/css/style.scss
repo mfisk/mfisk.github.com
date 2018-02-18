@@ -22,6 +22,7 @@ figure {
   vertical-align: top;
   text-align: center;
   width: 45%;
+  height: auto;
   min-width: 320px;
 }
 
@@ -43,9 +44,13 @@ figure img {
 }
 
 figure iframe {
-  width:  100%;
-  min-width: 320px;
-  min-height: 240px;
+  width: 320px;
+}
+figure iframe.cinema {
+  height: 170px;
+}
+figure iframe.tv {
+  height: 240px;
 }
 
 figcaption {

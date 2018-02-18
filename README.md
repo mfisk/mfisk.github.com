@@ -15,7 +15,7 @@
 
 
 <figure style="float:right">
-    <iframe src="http://www.youtube.com/embed/8s4TtNNvZL4?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
+    <iframe class="cinema" src="http://www.youtube.com/embed/8s4TtNNvZL4?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
     <figcaption>Our work has resulted in top publications, patents, and <a href="http://www.ey.com/gl/en/services/advisory/ey-los-alamos-national-laboratory---pathscan"><i>PathScan</i></a>, a commercial product.</figcaption>
 </figure>
 
@@ -44,12 +44,14 @@ Our approach models normal behaviors from multiple data sources inside a network
 <h1>Scalable Analytics</h1>
 
 <figure>
-    <iframe src="http://www.youtube.com/embed/bewEtDupC10?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
+    <iframe class="tv" src="http://www.youtube.com/embed/bewEtDupC10?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
     <figcaption><a href="/filemap">FileMap</a> orchestrates map-reduce computations on any collection of computers and does it twice as fast as Hadoop Streaming.  </figcaption>
 </figure>
 
 <figure>
-   <iframe src="http://www.youtube.com/embed/Umv4-PkpT1I?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
+   <div style="height: auto;">
+   <iframe class="tv" src="http://www.youtube.com/embed/Umv4-PkpT1I?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
+   </div>
     <figcaption><a href="https://ant.isi.edu/retrofuture/index.html">RetroFuture</a>: Distributed Internet Measurement</figcaption>
 </figure>
 
