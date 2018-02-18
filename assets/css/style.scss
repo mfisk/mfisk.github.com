@@ -5,11 +5,11 @@
 
 .inner {
   	max-width: 1000px;
-	padding: 20px 100px;
+	padding: 20px 80px;
 }
 
 #header_wrap .inner {
-	padding: 0px 100px;
+	padding: 0px 80px;
 }
 
 #main_content {
@@ -35,11 +35,14 @@ figure {
 }
 
 figure img {
+  text-align: center;
   width: 100%;
 }
 
 figure iframe {
   width:  100%;
+  min-width: 320px;
+  min-height: 240px;
 }
 
 figcaption {

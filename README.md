@@ -45,27 +45,24 @@ Our approach models normal behaviors from multiple data sources inside a network
 
 <h1>Scalable Analytics</h1>
 
-<p><a href="/filemap">FileMap</a> orchestrates map-reduce computations on any collection of computers and does it twice as fast as Hadoop Streaming. 
-</p>
-
-<figure>
-    <iframe src="http://www.youtube.com/embed/bewEtDupC10?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
-    <figcaption>CloudDP '14 Video</figcaption>
-</figure>
-
-<p>
-<br style="clear:right"/>
-<a href="https://ant.isi.edu/retrofuture/index.html">RetroFuture</a>
-</p>
-
-<figure>
+<figure style="float:right">
    <iframe src="http://www.youtube.com/embed/Umv4-PkpT1I?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
-    <figcaption>RetroFuture</figcaption>
+    <figcaption><a href="https://ant.isi.edu/retrofuture/index.html">RetroFuture</a>: Distributed Internet Measurement</figcaption>
 </figure>
 
-<br style="clear:right" />
+<figure style="float:none">
+    <iframe src="http://www.youtube.com/embed/bewEtDupC10?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
+    <figcaption><a href="/filemap">FileMap</a> orchestrates map-reduce computations on any collection of computers and does it twice as fast as Hadoop Streaming.  </figcaption>
+</figure>
 
-<a href="/smacq">SMACQ</a> for streaming queries.
+
+<br style="clear:right"/>
+<figure style="float: none; text-align: center">
+	<img style="width: 100px" src="http://smacq.sourceforge.net/icon.png"/>
+	<figcaption><a href="http://smacq.sf.net">SMACQ</a>: Optimized execution of simultaneous streaming analytics.</figcaption>
+</figure>
+
+<br style="clear:right"/>
 
 </div>
 
