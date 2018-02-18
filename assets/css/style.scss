@@ -1,16 +1,37 @@
 ---
 ---
 
-//@import "{{ site.theme }}";
-@import "grayscale";
+@import "{{ site.theme }}";
 
 .inner {
-  max-width: 1000px;
+  	max-width: 1000px;
+	padding: 20px 100px;
+}
+
+#header_wrap .inner {
+	padding: 0px 100px;
+}
+
+#main_content {
+	padding: 0px;
 }
 
 figure { 
+  margin-left: 10px;
   float: right;
-  width: 40%;
+  width: 45%;
+}
+
+#linkbar a {
+	margin: 0px;
+	color: lightblue;
+}
+
+#linkbar {
+	padding: 0px; 
+	margin: 0px;
+	font-size: 125%;
+	color: white;
 }
 
 figure img {
@@ -18,8 +39,7 @@ figure img {
 }
 
 figure iframe {
-  width:  320px;
-  height: 240px;
+  width:  100%;
 }
 
 figcaption {

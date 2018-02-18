@@ -1,8 +1,20 @@
-#theme: jekyll-theme-slate
 # OpenGraph / Twitter metadata
 title: Mike Fisk
 small_title: #Mike Fisk
 smallest_title: #Mike Fisk
 description: Cybersecurity & Analytics #Mike Fisk
 name: #Mike Fisk
-remote_theme: mfisk/grayscale-theme
+remote_theme: mfisk/jekyll-theme-slate
+
+#plugins:
+# - jekyll-remote-theme
+
+theme: jekyll-theme-slate
+#remote_theme: pages-themes/slate
+#defaults:
+  #-
+    #values:
+      #layout: "default-slate-fisk"
+#remote_theme: jarrekk/Jalpc
+#remote_theme: mmistakes/minimal-mistakes
+
