@@ -3,7 +3,7 @@
 <h1 id="project_title">Mike Fisk</h1>
 
 <div id="linkbar"><a href="https://scholar.google.com/citations?user=4ynNtvkAAAAJ">Publications</a>
-  &bull; <a href="https://github.com/mfisk">Code</a></div>
+  &nbsp;&nbsp;&bull;&nbsp;&nbsp; <a href="https://github.com/mfisk">Code</a></div>
 </header>
 </div>
 
@@ -33,7 +33,7 @@ Our approach models normal behaviors from multiple data sources inside a network
 
 <h1>Intrusion Tolerance</h1>
 
-<p>An intrusion tolerant cyber system can maintain certain performance characteristics even when components have been compromised. 
+<p>Intrusion tolerant cyber systems maintain certain performance characteristics even when components have been compromised.  Our work focuses on managing trust relationships, and specifically authentication mechanisms, in complex systems. 
 </p>
 
 <p>
