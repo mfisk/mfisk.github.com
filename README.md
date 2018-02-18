@@ -41,7 +41,7 @@ Our approach models normal behaviors from multiple data sources inside a network
 </p>
 </div>
 
-<div class="inner">
+<div class="inner" style="background-color: #eee">
 
 <h1>Scalable Analytics</h1>
 
