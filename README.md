@@ -44,18 +44,17 @@ Our approach models normal behaviors from multiple data sources inside a network
 <h1>Scalable Analytics</h1>
 
 <figure>
-   <iframe src="http://www.youtube.com/embed/Umv4-PkpT1I?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
-    <figcaption><a href="https://ant.isi.edu/retrofuture/index.html">RetroFuture</a>: Distributed Internet Measurement</figcaption>
-</figure>
-<figure>
-
     <iframe src="http://www.youtube.com/embed/bewEtDupC10?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
     <figcaption><a href="/filemap">FileMap</a> orchestrates map-reduce computations on any collection of computers and does it twice as fast as Hadoop Streaming.  </figcaption>
 </figure>
 
+<figure>
+   <iframe src="http://www.youtube.com/embed/Umv4-PkpT1I?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
+    <figcaption><a href="https://ant.isi.edu/retrofuture/index.html">RetroFuture</a>: Distributed Internet Measurement</figcaption>
+</figure>
 
 <figure>
-	<img style="width: 100px" src="http://smacq.sourceforge.net/icon.png"/>
+	<a href="http://smacq.sf.net"><img style="width: 100px" src="http://smacq.sourceforge.net/icon.png"/></a>
 	<figcaption><a href="http://smacq.sf.net">SMACQ</a>: Optimized execution of simultaneous streaming analytics.</figcaption>
 </figure>
 
