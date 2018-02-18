@@ -13,16 +13,14 @@
 
 <h1>Cybersecurity Artifical Intelligence</h1>
 
+
 <figure style="float:right">
     <iframe src="http://www.youtube.com/embed/8s4TtNNvZL4?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
+    <figcaption>Our work has resulted in top publications, patents, and <a href="http://www.ey.com/gl/en/services/advisory/ey-los-alamos-national-laboratory---pathscan"><i>PathScan</i></a>, a commercial product.</figcaption>
 </figure>
-
 
 <p>In 2010, we embarked on a multi-year interdisciplinary research project to build AI to detect when cyber insiders (an outside intruder or a rogue insider) are active within a network.
 Our approach models normal behaviors from multiple data sources inside a network and detects anomalous changes that are consistent with adversary activity.   This approach demonstrates  aspects of <a href="https://www.youtube.com/watch?v=-O01G3tSYpU">third-wave AI</a> like explainability and model-based learning of sparse data,  that are more sophisticated and efficient than deep learning.
-</p>
-
-<p>Our work has resulted in top publications, patents, and <a href="http://www.ey.com/gl/en/services/advisory/ey-los-alamos-national-laboratory---pathscan"><i>PathScan</i></a>, a commercial product.
 </p>
 
 <br style="clear:right" />
