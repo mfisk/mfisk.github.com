@@ -40,7 +40,8 @@ figure {
 
 figure img {
   text-align: center;
-  width: 100%;
+  max-width: 100%;
+  max-height: 200px;
 }
 
 figure iframe {
