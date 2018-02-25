@@ -34,9 +34,10 @@ Our approach models normal behaviors from multiple data sources inside a network
 <p>Intrusion tolerant cyber systems maintain certain performance characteristics even when components have been compromised.  Our work focuses on managing trust relationships, and specifically authentication mechanisms, in complex systems. 
 </p>
 
-<p>
-<a href="https://drive.google.com/file/d/1b1WOWxBtCcmk_N_KQ0FwoaYG-I-fvu0W">Intrusion Tolerance &amp; The Problem With Best Practices</a>
-</p>
+<figure>
+   <a href="https://drive.google.com/file/d/1b1WOWxBtCcmk_N_KQ0FwoaYG-I-fvu0W"><img src="https://lh3.googleusercontent.com/ePhGigwp8qIouydHnj2YXzeNA_qlu4Wh5KrnFLkyRG74fvlMh7qjaMPucqQxSQX6RBCoeg"><figcaption>Intrusion Tolerance &amp; The Problem With Best Practices</figcaption></a>
+</figure>
+
 </div>
 
 <div class="inner" style="background-color: #eee">
