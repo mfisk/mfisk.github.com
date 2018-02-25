@@ -49,6 +49,12 @@ Our approach models normal behaviors from multiple data sources inside a network
 </figure>
 
 <figure>
+   <a href="https://drive.google.com/file/d/12IIMmHmOh2IT1SSlmPNpXoHz-LN-PflM/view"><img src="https://drive.google.com/thumbnail?id=12IIMmHmOh2IT1SSlmPNpXoHz-LN-PflM"/></a>
+   <figcaption><a href="https://drive.google.com/file/d/12IIMmHmOh2IT1SSlmPNpXoHz-LN-PflM/view">Privacy Principles for Sharing Cyber Security Data</a></figcaption>
+</figure>
+
+
+<figure>
    <div style="height: auto;">
    <iframe class="tv" src="http://www.youtube.com/embed/Umv4-PkpT1I?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
    </div>
