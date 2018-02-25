@@ -49,7 +49,7 @@ Our approach models normal behaviors from multiple data sources inside a network
 </figure>
 
 <figure>
-   <a href="https://drive.google.com/file/d/12IIMmHmOh2IT1SSlmPNpXoHz-LN-PflM/view"><img src="https://drive.google.com/thumbnail?id=12IIMmHmOh2IT1SSlmPNpXoHz-LN-PflM"/></a>
+   <a href="https://drive.google.com/file/d/12IIMmHmOh2IT1SSlmPNpXoHz-LN-PflM/view"><img height="200px" src="https://drive.google.com/thumbnail?id=12IIMmHmOh2IT1SSlmPNpXoHz-LN-PflM"/></a>
    <figcaption><a href="https://drive.google.com/file/d/12IIMmHmOh2IT1SSlmPNpXoHz-LN-PflM/view">Privacy Principles for Sharing Cyber Security Data</a></figcaption>
 </figure>
 
