@@ -57,7 +57,7 @@ Our approach models normal behaviors from multiple data sources inside a network
 
 <figure>
    <div style="height: auto;">
-   <iframe class="tv" src="http://www.youtube.com/embed/Umv4-PkpT1I?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
+   <iframe class="cinema" src="http://www.youtube.com/embed/Umv4-PkpT1I?rel=0&controls=0&modestbranding=1&showinfo=0&origin=http://otowi.net" allowfullscreen></iframe>
    </div>
     <figcaption><a href="https://ant.isi.edu/retrofuture/index.html">RetroFuture</a>: Distributed Internet Measurement</figcaption>
 </figure>
