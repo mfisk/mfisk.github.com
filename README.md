@@ -35,7 +35,7 @@ Our approach models normal behaviors from multiple data sources inside a network
 </p>
 
 <figure>
-   <a href="https://drive.google.com/file/d/1b1WOWxBtCcmk_N_KQ0FwoaYG-I-fvu0W"><img src="https://lh3.googleusercontent.com/ePhGigwp8qIouydHnj2YXzeNA_qlu4Wh5KrnFLkyRG74fvlMh7qjaMPucqQxSQX6RBCoeg" /><figcaption>Intrusion Tolerance &amp; The Problem With Best Practices</figcaption></a>
+   <a href="https://drive.google.com/file/d/1b1WOWxBtCcmk_N_KQ0FwoaYG-I-fvu0W"><img src="images/fence10.jpg" /><figcaption>Intrusion Tolerance &amp; The Problem With Best Practices</figcaption></a>
 </figure>
 
 </div>
