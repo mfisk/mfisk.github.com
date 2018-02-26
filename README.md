@@ -51,7 +51,7 @@ Our approach models normal behaviors from multiple data sources inside a network
 
 <figure>
    <a href="https://drive.google.com/file/d/12IIMmHmOh2IT1SSlmPNpXoHz-LN-PflM/view"><img src="https://drive.google.com/thumbnail?id=12IIMmHmOh2IT1SSlmPNpXoHz-LN-PflM"/>
-   <figcaption>Privacy Principles for Sharing Cyber Security Data</a></figcaption>
+   <figcaption>Privacy Principles for Sharing Cyber Security Data</figcaption></a>
 </figure>
 
 
@@ -64,7 +64,7 @@ Our approach models normal behaviors from multiple data sources inside a network
 
 <figure>
 	<a href="http://smacq.sf.net"><img style="width: 100px" src="http://smacq.sourceforge.net/icon.png"/>
-	<figcaption>SMACQ</a>: Optimized execution of simultaneous streaming analytics.</figcaption>
+	<figcaption>SMACQ: Optimized execution of simultaneous streaming analytics.</figcaption></a>
 </figure>
 
 
